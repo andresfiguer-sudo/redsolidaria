@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Luz para la familia Gómez",
+    "description": "Ayuda a pagar la factura de electricidad.",
+    "goal": 5000
+  },
+  {
+    "title": "Agua para Don Carlos",
+    "description": "Colaborá con los servicios básicos.",
+    "goal": 3000
+  },
+  {
+    "title": "Alimentos fin de mes",
+    "description": "Apoyo para compras esenciales.",
+    "goal": 4000
+  }
+]
